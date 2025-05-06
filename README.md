@@ -1,6 +1,6 @@
 ## System Kostiumów
 
-W naszym projekcie zaimplementowaliśmy system kostiumów, który pozwala graczom na zmianę wyglądu bez wpływu na statystyki gry.
+Pozwala graczom na zmianę wyglądu bez wpływu na statystyki gry.
 
 ## Wymagania
 - Wersja serwera Minecraft: 1.18.2 - 1.21.5
