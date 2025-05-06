@@ -9,7 +9,7 @@ W naszym projekcie zaimplementowaliśmy system kostiumów, który pozwala graczo
   - [Vault](https://github.com/MilkBowl/Vault)
 
 
-### Dokumentacja
+## Dokumentacja
 
 Dokumentacja systemu atrybutów jest dostępna na [Wiki](https://github.com/keffciu/Costumes/wiki/Atrybuty)
 
