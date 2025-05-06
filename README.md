@@ -4,4 +4,4 @@ W naszym projekcie zaimplementowaliśmy system kostiumów, który pozwala graczo
 
 ### Dokumentacja
 
-Dokumentacja systemu atrybutów jest dostępna na [Wiki]([link-do-wiki](https://github.com/keffciu/Costumes/wiki/Atrybuty)
+Dokumentacja systemu atrybutów jest dostępna na [Wiki](https://github.com/keffciu/Costumes/wiki/Atrybuty)
